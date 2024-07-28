@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+
+.segmento{
+    font-size: 22px;
+    margin: 20px;
+}
+
+.tabela{
+    color: #ffffff;
+    margin: 20px;
+}
+
+tr td, tr th {
+    padding:7px;
+}
+
+.cabecalho-moda{
+    background-color: #bb86fc;
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4
+}
+
+.descricao-produtos{
+    background-color: #424250;
+}
